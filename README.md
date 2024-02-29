@@ -21,4 +21,4 @@ Press Ctrl+alt+z to open Chrome Vox, then select Resources, then select a link. 
 Entering your password and school account, after click "Sign in as existing user." (Same login for school.)
 If everything went well, you should notice "muti user sign in disabled on this Chromebook" and be logged into your school account in the kiosk app. To bypass simply press the ESC button.
 
-You should be able to exit the browser associated with your school account and see a settings option; try turning on wifi first, then close that window. The window that is entirely unblocked is the last one. You can launch incognito as well.
+You should be able to exit the browser associated with your school account and see a settings option; try turning on wifi first, then close that window. The window unblocked is the last one. You can launch incognito as well.
